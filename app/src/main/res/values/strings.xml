@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Self Reflection</string>
+    <string name="start">4:00 Wake Up</string>
+    <string name="pray1">Pray Morning</string>
+    <string name="aad1">4:30-8:00 AAD</string>
+    <string name="dsa1">9:00-12:30 DSA</string>
+    <string name="dsa2">13:00-17:00 DSA</string>
+    <string name="aad2">20:00-23:00 AAD</string>
+    <string name="pray2">Pray Before Sleep</string>
+    <string name="s20">Perfect Day you are unstoppable</string>
+    <string name="s15_20">Good Work be Consistent to get perfect</string>
+    <string name="s10_15">Never Give Up Let it not repeat again</string>
+    <string name="s_10">Give it a thought you can do much better</string>
+
+</resources>
